@@ -7,4 +7,4 @@
   </text>
 </svg>][1]
 
-[1]: https://github.com/gogumama/places-to-go/index.html
+[1]: https://github.com/gogumama/places-to-go/index
